@@ -1,0 +1,13 @@
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\bin\Debug\netcoreapp3.1\TestFirstSprint2.exe
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\bin\Debug\netcoreapp3.1\TestFirstSprint2.deps.json
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\bin\Debug\netcoreapp3.1\TestFirstSprint2.runtimeconfig.json
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\bin\Debug\netcoreapp3.1\TestFirstSprint2.runtimeconfig.dev.json
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\bin\Debug\netcoreapp3.1\TestFirstSprint2.dll
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\bin\Debug\netcoreapp3.1\TestFirstSprint2.pdb
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\obj\Debug\netcoreapp3.1\TestFirstSprint2.csprojAssemblyReference.cache
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\obj\Debug\netcoreapp3.1\TestFirstSprint2.AssemblyInfoInputs.cache
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\obj\Debug\netcoreapp3.1\TestFirstSprint2.AssemblyInfo.cs
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\obj\Debug\netcoreapp3.1\TestFirstSprint2.csproj.CoreCompileInputs.cache
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\obj\Debug\netcoreapp3.1\TestFirstSprint2.dll
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\obj\Debug\netcoreapp3.1\TestFirstSprint2.pdb
+C:\Users\jabba\Desktop\Programs\OOP II\TestFirstSprint2UnitTest\TestFirstSprint2\obj\Debug\netcoreapp3.1\TestFirstSprint2.genruntimeconfig.cache
